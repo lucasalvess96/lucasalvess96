@@ -1,4 +1,3 @@
-### Hi there 👋
 # Lucas Alves - Welcome 🖐️🖐️
 
 Estudante de desenvolvimento web,
