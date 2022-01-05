@@ -5,6 +5,13 @@ vizualizar projetos:
 https://www.linkedin.com/in/lucas-alves-41096/detail/recent-activity/shares/
 
 
+✨ Buscar conhecimento o tempo todo
+Meu aprendizado é baseado na criação de projetos
+
+💡 Impulsionado pelo envio de produtos que ajudam as pessoas.
+Minha paixão por programação está relacionada a criar coisas incríveis e ajudar as pessoas
+
+
   [![blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
   [![blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
   [![blog](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]()
