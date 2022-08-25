@@ -5,7 +5,7 @@ vizualizar projetos:
 https://www.linkedin.com/in/lucas-alves-41096/detail/recent-activity/shares/
 
 
-✨ Buscar conhecimento o tempo todo
+✨ Buscar conhecimento o tempo todo.
 Meu aprendizado é baseado na criação de projetos
 
 💡 Impulsionado pelo envio de produtos que ajudam as pessoas.
