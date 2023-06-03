@@ -1,6 +1,6 @@
 # Lucas Alves - Welcome 🖐️🖐️
 
-Estudante de desenvolvimento web,
+Graduado em Sistemas de informação, Desenvolvedor FRONT-END,
 vizualizar projetos: 
 https://www.linkedin.com/in/lucas-alves-41096/detail/recent-activity/shares/
 
