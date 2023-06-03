@@ -17,11 +17,11 @@ Minha paixão por programação está relacionada a criar coisas incríveis e aj
   [![blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
   [![blog](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
 
-  [![blog](https://img.shields.io/badge/React-02569B?style=for-the-badge&logo=react&logoColor=white)]()
-  [![blog](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)]()
-  
   [![blog](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)]()
   [![blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
+
+  [![blog](https://img.shields.io/badge/React-02569B?style=for-the-badge&logo=react&logoColor=white)]()
+  [![blog](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)]()
   
   [![blog](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
   [![blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
