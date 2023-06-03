@@ -24,3 +24,8 @@ Minha paixão por programação está relacionada a criar coisas incríveis e aj
 <!--   [![blog](	https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]() -->
   [![blog](https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white)]()
   [![blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
+  
+  [![blog](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
+  [![blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
+  [![blog](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)]()
+ 
