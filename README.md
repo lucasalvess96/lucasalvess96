@@ -1,6 +1,6 @@
 # Lucas Alves - Welcome 🖐️🖐️
 
-Graduado em Sistemas de informação, Desenvolvedor FRONT-END,
+Graduado em Sistemas de informação, Desenvolvedor FULL-STACK,
 vizualizar projetos: 
 https://www.linkedin.com/in/lucas-alves-41096/detail/recent-activity/shares/
 
